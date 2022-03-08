@@ -24,7 +24,6 @@ import java.net.URL;
 
 public class CalculatorLoc {
     public static void main(String[] args) throws MalformedURLException {
-//        cs.getCalculatorPort(ao);
         double a = Double.parseDouble("request");
 
         
